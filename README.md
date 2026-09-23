@@ -35,7 +35,7 @@ I'm now moving back toward hands-on building, with a growing focus on **Agentic 
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 ### AI / Agentic
 
@@ -75,10 +75,13 @@ I'm now moving back toward hands-on building, with a growing focus on **Agentic 
 
 ---
 
-## Background
+## Education
 
 - **B.S. in Computer Engineering**, Istanbul Bilgi University — Full ÖSYM Scholarship, GPA: 3.07
 - **Erasmus+**, Blekinge Institute of Technology, Sweden
+
+## Background
+
 - **Functional Consultant at Odoo** — Purchase, Inventory, CRM, and Production modules
 - **Microsoft D365 NAV/BC Consultant at Pargesoft** — client support, functional specs, and AL programming
 - **Data Analyst Intern at GroupM** — GA4, Looker Studio, A/B testing, and Google Tag Manager
