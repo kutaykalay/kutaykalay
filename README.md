@@ -77,7 +77,7 @@ I'm now moving back toward hands-on building, with a growing focus on **Agentic 
 
 ## Education
 
-- **B.S. in Computer Engineering**, Istanbul Bilgi University — Full ÖSYM Scholarship, GPA: 3.07
+- **B.S. in Computer Science**, Istanbul Bilgi University — Full ÖSYM Scholarship, GPA: 3.07
 - **Erasmus+**, Blekinge Institute of Technology, Sweden
 
 ## Background
