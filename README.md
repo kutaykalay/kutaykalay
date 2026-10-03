@@ -7,6 +7,7 @@ Computer engineer in Istanbul. Started on the ERP side (Odoo, Dynamics 365 Busin
 - [Mined](https://github.com/kutaykalay/Mined): a self-maintaining second brain on Obsidian + Claude Code
 - [KutayOS](https://github.com/kutaykalay/KutayOS): a clean, revertible Windows 11 LTSC playbook
 - [quito](https://github.com/kutaykalay/quito): evidence-based quit-smoking app
+- [M-Tool](https://github.com/kutaykalay/M-Tool): Windows tray app for MSI laptops: fan curves, Cooler Boost, performance mode and charge limit
 
 ### Contact
 
