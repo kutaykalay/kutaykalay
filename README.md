@@ -1,6 +1,6 @@
 # Kutay Kalay
 
-Computer engineer in Istanbul. Started on the ERP side (Odoo, Dynamics 365 Business Central), now building agentic AI tools with Python, LLM APIs and MCP.
+Computer engineer in Istanbul. Building tools.
 
 ### Projects
 
