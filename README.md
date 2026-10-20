@@ -1,6 +1,6 @@
 # Kutay Kalay
 
-Computer engineer in Istanbul. Building tools.
+Software engineer in Istanbul. Building tools.
 
 ### Projects
 
